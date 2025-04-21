@@ -1,20 +1,18 @@
-
-
 <div align="center">
 
-# Hey 👋 Adan here!
+# Hey, I’m Adan — welcome to my GitHub!
 
 </div>
 
+I’m a data-minded generalist who loves turning information into insights and ideas into impact. My background blends marketing, analytics, data science, and public service — and I use that range to explore real-world problems from multiple angles.
 
-I'm a technologist at heart with a passion for solving complex problems and uncovering insights through data. My journey is built on a foundation in data science, marketing analytics, and business strategy. I enjoy combining creativity with technical expertise to craft innovative, data-driven solutions.  
+I’m especially passionate about building projects that connect technical skills with strategic thinking. Whether it’s Python notebooks for churn modeling or Tableau dashboards that visualize campaign results, I’m always looking for ways to make data approachable and actionable.
 
-- 🔭 **I’m currently working on**: Building a dynamic portfolio of projects that showcase my technical skills and creativity. From Python-based analytics to cutting-edge data visualizations in Tableau, each project reflects my drive to tackle real-world challenges.  
-- 🌱 **I’m learning**: Advanced machine learning techniques, healthcare analytics, and innovative approaches to financial modeling. Continuous learning fuels my growth and keeps me sharp in the ever-evolving world of technology.  
-- 👯 **I’m looking to collaborate on**: Projects where data can make a tangible impact, such as healthcare analytics, marketing optimization, and business intelligence initiatives. I value teamwork and enjoy creating solutions greater than the sum of their parts.  
-- 🤔 **I’m looking for help with**: Exploring impactful opportunities that align with my expertise in data-driven decision-making, whether in analytics, consulting, or strategy. I'm open to connecting with professionals and organizations that value innovative approaches to problem-solving.  
-- 💬 **Ask me about**: Python, SQL, machine learning, marketing analytics, public housing management, or anything related to transforming raw data into actionable insights. I’m always excited to share knowledge and engage in meaningful conversations!  
-- 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/adanuraga) . I’d love to connect and discuss ideas, projects, or opportunities!  
+- 🔭 **Currently working on**: Expanding my portfolio with projects in Python, SQL, Tableau, and machine learning — including segmentation, classification, and NLP-based analysis.
+- 🌱 **Learning**: More advanced ML techniques, generative AI, and creative applications of data in marketing, healthcare, and business intelligence.
+- 👯 **Open to collaborate on**: Projects where data can help people — especially in areas like marketing strategy, social impact, analytics, or creative tech.
+- 🤝 **Looking for opportunities**: Entry-level roles or team-based projects where I can grow, contribute, and help connect the dots between data and decisions.
+- 💬 **Ask me about**: Python, SQL, Tableau, machine learning, marketing analytics, or how data can tell better stories.
+- 📫 **Let’s connect**: [LinkedIn](https://linkedin.com/in/adanuraga)  
 
-Beyond my technical pursuits, I enjoy exploring creative solutions and developing professional strategies. Whether designing Python notebooks or crafting strategic communication plans, I aim to combine technical rigor with thoughtful execution.  
-
+Outside of coding, I enjoy bridging technical work with storytelling and communication. Whether you’re here to browse my projects or collaborate on something new — thanks for stopping by!
