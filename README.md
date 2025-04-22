@@ -4,15 +4,16 @@
 
 </div>
 
-I’m a data-minded generalist who loves turning information into insights and ideas into impact. My background blends marketing, analytics, data science, and public service — and I use that range to explore real-world problems from multiple angles.
+I’m a data-minded problem-solver with a passion for figuring things out, spotting patterns, and stepping up with ideas. Whether it’s a messy dataset, an underperforming campaign, or a business process that could run smoother — I like to be the person who says,  
+**“I’ve seen this before, here’s what we should do.”**
 
-I’m especially passionate about building projects that connect technical skills with strategic thinking. Whether it’s Python notebooks for churn modeling or Tableau dashboards that visualize campaign results, I’m always looking for ways to make data approachable and actionable.
+My background blends marketing, analytics, and data science with hands-on work in housing operations and small business strategy. I’ve built churn models, visual dashboards, segmentation projects, and NLP tools — all grounded in real-world needs. I’m not just learning how to use Python, SQL, or Tableau — I’m learning how to **use them to solve actual problems.**
 
-- 🔭 **Currently working on**: Expanding my portfolio with projects in Python, SQL, Tableau, and machine learning — including segmentation, classification, and NLP-based analysis.
-- 🌱 **Learning**: More advanced ML techniques, generative AI, and creative applications of data in marketing, healthcare, and business intelligence.
-- 👯 **Open to collaborate on**: Projects where data can help people — especially in areas like marketing strategy, social impact, analytics, or creative tech.
-- 🤝 **Looking for opportunities**: Entry-level roles or team-based projects where I can grow, contribute, and help connect the dots between data and decisions.
-- 💬 **Ask me about**: Python, SQL, Tableau, machine learning, marketing analytics, or how data can tell better stories.
-- 📫 **Let’s connect**: [LinkedIn](https://linkedin.com/in/adanuraga)  
+- 🔭 **Currently building**: A portfolio that shows how I think, not just what I code — with Python notebooks, visualizations, and case-style projects.
+- 🌱 **Learning more about**: Machine learning, generative AI, marketing automation, and creative use cases for data in business and social impact.
+- 👯 **Looking to collaborate on**: Projects that need data-backed decision-making, creative insight, and someone willing to ask “what if we tried it this way?”
+- 🤝 **Open to opportunities**: Entry-level roles in analytics, marketing, strategy, or data science where I can grow and help teams make smarter calls.
+- 💬 **Let’s talk about**: Data storytelling, marketing strategy, predictive analytics, or anything that turns raw data into action.
+- 📫 **Reach me on LinkedIn**: [linkedin.com/in/adanuraga](https://linkedin.com/in/adanuraga)
 
-Outside of coding, I enjoy bridging technical work with storytelling and communication. Whether you’re here to browse my projects or collaborate on something new — thanks for stopping by!
+Thanks for checking out my work — feel free to browse, connect, or reach out if something here sparks an idea.
