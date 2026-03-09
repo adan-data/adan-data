@@ -1,19 +1,44 @@
 <div align="center">
 
-# Hey, I’m Adan — welcome to my GitHub!
+# Adan Uraga
+
+**Python · SQL · Tableau · Streamlit | B.S. Marketing & Business Analytics | Relocating to Atlanta, GA**
+
+[LinkedIn](https://linkedin.com/in/adan-uraga) · [Email](mailto:adanuraga@gmail.com)
 
 </div>
 
-I'm a data-minded problem-solver who loves finding patterns, figuring things out, and offering solutions. Whether it’s messy data, a slow campaign, or an inefficient process, I aim to be the person who says:
-**"Here’s what’s going on — and here’s what we should do."**
+---
 
-My background blends marketing, analytics, and data science with hands-on work in housing operations and small business strategy. I’ve built churn models, visual dashboards, segmentation projects, and NLP tools — all grounded in real-world needs. 
+I work at the intersection of marketing, analytics, and operations. My focus is on finding what data actually says and turning it into a clear recommendation — whether that's a churn problem, an underperforming campaign, or a process that needs structure.
 
-- 🔭 **Currently building**: A portfolio that shows how I think, not just what I code — with Python notebooks, visualizations, and case-style projects.
-- 🌱 **Learning more about**: Machine learning, generative AI, marketing automation, and creative use cases for data in business and social impact.
-- 👯 **Looking to collaborate on**: Real-world projects that use data to solve real problems — especially ones that value fresh ideas, creative thinking, and practical execution.
-- 🤝 **Open to opportunities**: Entry-level roles in analytics, marketing, strategy, or data science where I can grow and help teams make smarter calls.
-- 💬 **Let’s talk about**: Data storytelling, marketing strategy, predictive analytics, or anything that turns raw data into action.
-- 📫 **Reach me on LinkedIn**: [linkedin.com/in/adanuraga](https://linkedin.com/in/adanuraga)
+My background covers marketing analytics, data science, and hands-on housing operations. I hold a B.S. in Marketing with a minor in Business Analytics & Data Science (GPA 3.9, summa cum laude) and have built applied projects in Python across churn modeling, customer segmentation, and NLP.
 
-Thanks for checking out my work — feel free to browse, connect, or reach out if something here sparks an idea.
+## Projects
+
+**Atlanta Housing Pulse** · [Live App](https://atlanta-housing-pulse.streamlit.app) · [Repo](https://github.com/adan-data/atlanta-housing-pulse)  
+Tracks neighborhood-level housing displacement risk across 520 census tracts in Atlanta's 5-county metro (Fulton, DeKalb, Cobb, Clayton, Gwinnett). A Gradient Boosting classifier (93% accuracy) assigns displacement risk tiers — Low, Moderate, High, or Critical — to each tract. An 18-month rent forecast uses Facebook Prophet scaled to real CPI dollars via FRED. A PSI drift monitor flags when the model needs retraining. Key finding: DeKalb County carries the highest average displacement risk (DRI 0.53) with the most gentrification flags in the dataset. Built with Python, Scikit-learn, Prophet, Plotly, Streamlit, SQLite, and public APIs from the U.S. Census Bureau, FRED, and HUD.
+
+**Churn Prediction Model**  
+Supervised learning pipeline comparing multiple classifiers via Lazy Predict. Selected AdaBoost with an AUC of 0.73 and translated results into retention-focused business recommendations.
+
+**Customer Segmentation with K-means**  
+Applied K-means clustering to behavioral and demographic data to define actionable customer segments for targeted marketing strategy.
+
+**Amazon Review Sentiment Analysis (NLP)**  
+Used VADER and deep learning models to classify sentiment across product reviews. Built visualizations to surface trends across categories for product feedback strategy.
+
+## Skills
+
+**Technical:** Python (Pandas, NumPy, Scikit-learn, Prophet, Plotly, Streamlit), SQL, SQLite, Tableau, Excel Automation, SPSS  
+**Analytics:** Predictive Modeling, Customer Segmentation, Sentiment Analysis, Data Visualization, Drift Monitoring  
+**Marketing:** SEO, Google Analytics, Campaign Analysis, A/B Testing  
+**Other:** Bilingual English/Spanish, Housing Operations, Client Relations
+
+## Currently
+
+Building a project portfolio structured around real business problems — each repo includes context, methodology, and results rather than just code.
+
+Open to entry-level roles in **data analytics, marketing analytics, or business intelligence** where I can contribute from day one and grow into broader ownership.
+
+**Reach me:** [linkedin.com/in/adan-uraga](https://linkedin.com/in/adan-uraga) · adanuraga@gmail.com
