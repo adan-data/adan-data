@@ -10,7 +10,7 @@
 
 ---
 
-I work at the intersection of marketing, analytics, and operations. My focus is on finding what data actually says and turning it into a clear recommendation — whether that's a churn problem, an underperforming campaign, or a process that needs structure.
+I work by combining marketing, analytics, and operations. My focus is on finding what data actually says and turning it into a clear recommendation; whether that's a churn problem, an underperforming campaign, or a process that needs structure.
 
 My background covers marketing analytics, data science, and hands-on housing operations. I hold a B.S. in Marketing with a minor in Business Analytics & Data Science (GPA 3.9, summa cum laude) and have built applied projects in Python across churn modeling, customer segmentation, and NLP.
 
